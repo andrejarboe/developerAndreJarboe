@@ -1,0 +1,23 @@
+{
+  "name": "developerandrejarboe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejarboe/developerAndreJarboe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejarboe/developerAndreJarboe/issues"
+  },
+  "homepage": "https://github.com/andrejarboe/developerAndreJarboe#readme"
+}
